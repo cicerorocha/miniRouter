@@ -1,0 +1,15 @@
+{
+    "name": "cicer/mini-route",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app//"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cícero rocha",
+            "email": "cicerorocha@outlook.com"
+        }
+    ],
+    "require": {}
+}
